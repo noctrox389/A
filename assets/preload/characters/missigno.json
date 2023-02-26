@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "missingno down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "missingno up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "missingno right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "missingno idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "missingno left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "missingno intro"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Missingno",
+	"position": [
+		110,
+		260
+	],
+	"healthicon": "MissingnoIcons",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		254,
+		248
+	],
+	"camera_position": [
+		-600,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 6.39999999999999
+}

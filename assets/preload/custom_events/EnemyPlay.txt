@@ -1,0 +1,2 @@
+Allows you to play as the opponent
+It's toggled on event, so dont worry about values.
